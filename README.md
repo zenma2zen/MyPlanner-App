@@ -1,4 +1,4 @@
-# 🚀 MyPlanner App
+# MyPlanner App
 ---
 
 ## Fitur Utama
