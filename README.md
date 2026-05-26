@@ -16,15 +16,15 @@
 3. Buka aplikasi dan mulai atur harimu agar lebih teratur!
 
 ---
-## Preview Aplikasi
+##  Preview Aplikasi
 
 <p align="center">
   <table align="center">
     <tr>
-      <td><img src="screenshots/schedule.jpeg" width="200" title="Jadwal Utama"></td>
-      <td><img src="screenshots/Task.jpeg" width="200" title="Daftar Tugas"></td>
-      <td><img src="screenshots/addtask.jpeg" width="200" title="Tambah Tugas Baru"></td>
-      <td><img src="screenshots/settings.jpeg" width="200" title="Pengaturan"></td>
+      <td><img src="screenshot/schedule.jpeg" width="200" title="Jadwal Utama"></td>
+      <td><img src="screenshot/Task.jpeg" width="200" title="Daftar Tugas"></td>
+      <td><img src="screenshot/addtask.jpeg" width="200" title="Tambah Tugas Baru"></td>
+      <td><img src="screenshot/settings.jpeg" width="200" title="Pengaturan"></td>
     </tr>
     <tr align="center">
       <td><b>Schedule Screen</b></td>
