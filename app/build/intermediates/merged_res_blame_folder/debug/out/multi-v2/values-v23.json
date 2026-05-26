@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.myplanner.app-mergeDebugResources-68:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Z\\.gradle\\caches\\transforms-3\\e284a9dfb651d41a8d5431fea210ee88\\transformed\\glance-appwidget-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "184",
+                        "endColumns": "55",
+                        "endOffsets": "235"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Z\\.gradle\\caches\\transforms-3\\13ef67186a74a2fc4062eb40dbdb39e6\\transformed\\work-runtime-2.9.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

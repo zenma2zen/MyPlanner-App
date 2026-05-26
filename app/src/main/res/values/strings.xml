@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyPlanner</string>
+    <string name="task_widget_description">Widget untuk menampilkan daftar tugas aktif</string>
+    <string name="schedule_widget_description">Widget untuk menampilkan jadwal pelajaran hari ini</string>
+</resources>
