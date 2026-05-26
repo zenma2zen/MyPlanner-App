@@ -21,13 +21,15 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td><img src="screenshot/schedule.jpeg" width="200" title="Jadwal Utama"></td>
-      <td><img src="screenshot/Task.jpeg" width="200" title="Daftar Tugas"></td>
-      <td><img src="screenshot/addtask.jpeg" width="200" title="Tambah Tugas Baru"></td>
-      <td><img src="screenshot/settings.jpeg" width="200" title="Pengaturan"></td>
+      <td><img src="screenshot/schedule.jpeg" width="180" title="Jadwal Utama"></td>
+      <td><img src="screenshot/schedule.jpeg" width="180" title="Rencana harian (Planner)"></td>
+      <td><img src="screenshot/Task.jpeg" width="180" title="Daftar Tugas"></td>
+      <td><img src="screenshot/addtask.jpeg" width="180" title="Tambah Tugas Baru"></td>
+      <td><img src="screenshot/settings.jpeg" width="180" title="Pengaturan"></td>
     </tr>
     <tr align="center">
       <td><b>Schedule Screen</b></td>
+      <td><b>Planner View</b></td>
       <td><b>Task List</b></td>
       <td><b>Add Task</b></td>
       <td><b>Settings</b></td>
